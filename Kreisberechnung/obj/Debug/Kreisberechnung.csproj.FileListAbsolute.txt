@@ -1,0 +1,10 @@
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\bin\Debug\Kreisberechnung.exe.config
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\bin\Debug\Kreisberechnung.exe
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\bin\Debug\Kreisberechnung.pdb
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.csprojAssemblyReference.cache
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.FRMkreis.resources
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.Properties.Resources.resources
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.csproj.GenerateResource.cache
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.csproj.CoreCompileInputs.cache
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.exe
+c:\users\wittkopf\source\repos\Kreisberechnung\Kreisberechnung\obj\Debug\Kreisberechnung.pdb
